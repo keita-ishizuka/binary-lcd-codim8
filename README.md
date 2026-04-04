@@ -2,7 +2,7 @@
 
 This repository contains the construction data for the paper:
 
-> K. Ishizuka and M. Harada, "Binary caps and LCD codes," 2026.
+> K. Ishizuka and Y. Kamio, "Binary caps and LCD codes with large dimensions," 2026.
 
 ## Data Files
 
